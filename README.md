@@ -7,7 +7,7 @@ This is my personal portfolio website showcasing my work in:
 - Content Creation
 
 🔗 Live Website:
-https://yourusername.github.io/repository-name/
+https://utharun23.github.io/portfolio/
 
 📸 Instagram:
 https://instagram.com/__tharun._.23
